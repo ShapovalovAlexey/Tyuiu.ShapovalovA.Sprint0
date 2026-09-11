@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="Task0/Task0.csproj" />
+  <Project Path="Task1/Task1.csproj" Id="123d4672-069c-46e3-b9da-42eaca290c80" />
   <Project Path="Tyuiu.ShapovalovA.Sprint0.Task0.V0/Tyuiu.ShapovalovA.Sprint0.Task0.V0.csproj" />
+  <Project Path="Tyuiu.ShapovalovA.Sprint0.Task1.V0/Tyuiu.ShapovalovA.Sprint0.Task1.V0.csproj" Id="613a57e2-cf39-4149-8219-b7c37c2b656a" />
 </Solution>
