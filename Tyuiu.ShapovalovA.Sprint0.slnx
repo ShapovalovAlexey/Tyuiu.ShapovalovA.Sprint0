@@ -1,4 +1,9 @@
 <Solution>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task2.V0.lib/Tyuiu.ShapovalovA.Sprint0.Task2.V0.lib.csproj" Id="70aeb62a-6007-4b59-bfba-305b0a03f248" DisplayName="Tyuiu.ShapovalovA.Sprint0.Task2.V0.Lib" />
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task2.V0.Test/Tyuiu.ShapovalovA.Sprint0.Task2.V0.Test.csproj" Id="286b9c96-8c11-47d7-aa84-e43dce46758f" />
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task2.V0/Tyuiu.ShapovalovA.Sprint0.Task2.V0.csproj" Id="f36657c1-1c6d-4ccf-9bfc-7d90363a9f96" />
+  </Folder>
   <Project Path="Task0/Task0.csproj" />
   <Project Path="Task1/Task1.csproj" Id="123d4672-069c-46e3-b9da-42eaca290c80" />
   <Project Path="Tyuiu.ShapovalovA.Sprint0.Task0.V0/Tyuiu.ShapovalovA.Sprint0.Task0.V0.csproj" />
