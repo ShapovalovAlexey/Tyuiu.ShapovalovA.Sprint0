@@ -19,6 +19,11 @@
     <Project Path="Tyuiu.ShapovalovA.Sprint0.Task5.V0.Test/Tyuiu.ShapovalovA.Sprint0.Task5.V0.Test.csproj" Id="9c3f03d8-11d3-457b-bcf3-7d72e19474a2" />
     <Project Path="Tyuiu.ShapovalovA.Sprint0.Task5.V0/Tyuiu.ShapovalovA.Sprint0.Task5.V0.csproj" Id="40245b15-257a-4460-9bf1-26d10454fd68" />
   </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task6.V0.Lib/Tyuiu.ShapovalovA.Sprint0.Task6.V0.Lib.csproj" Id="2a15a3c6-6d2c-4542-abe6-ac26ccf2c979" />
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task6.V0.Test/Tyuiu.ShapovalovA.Sprint0.Task6.V0.Test.csproj" Id="12e41a7a-49cd-4b5b-bb9c-7370a1d89aa4" />
+    <Project Path="Tyuiu.ShapovalovA.Sprint0.Task6.V0/Tyuiu.ShapovalovA.Sprint0.Task6.V0.csproj" Id="06c8193a-aac7-433d-8efc-ac81518c9157" />
+  </Folder>
   <Project Path="Task0/Task0.csproj" />
   <Project Path="Task1/Task1.csproj" Id="123d4672-069c-46e3-b9da-42eaca290c80" />
   <Project Path="Tyuiu.ShapovalovA.Sprint0.Task0.V0/Tyuiu.ShapovalovA.Sprint0.Task0.V0.csproj" />
